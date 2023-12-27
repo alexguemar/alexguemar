@@ -1,5 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-😀 I'm Alejandro Guevara a frotend developer. I specialise in Web Development, JavaScript and Design.  I like join new communities and add value 
+<h1>🖐️Hey! Nice to see you.</h1>
+<h2>😀 Welcome to my page! </br> I'm Alejandro Guevara, I specialise in Web Development 👾🤖, HTML, CSS, JS, ReactJS and Web Design. Currently living in Huancayo, 🇵🇪 Perú. </h2>
+
+
 
 <!---
 alexguemar/alexguemar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
